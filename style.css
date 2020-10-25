@@ -4,7 +4,71 @@ position:absolute;
 }
 #background{
   position:absolute;
+  margin-left:230px;
+  margin-top:120px;
+  height:500px;
+  width:280px;
 }
+#snap{
+  margin-left:430px;
+  margin-top:450px;
+  height: 60px;
+  width:60px;
+  position:absolute;
+}
+#chrome{
+  margin-left:250px;
+  margin-top:450px;
+  height: 60px;
+  width:60px;
+  position:absolute;
+
+}
+#youtube{
+  margin-left:430px;
+  margin-top:350px;
+  height: 60px;
+  width:60px;
+  position:absolute;
+}
+#twitter{
+  margin-left:250px;
+  margin-top:350px;
+  height: 60px;
+  width:60px;
+  position:absolute;
+
+}
+#netflix{
+  margin-left:430px;
+  margin-top:250px;
+  height: 60px;
+  width:60px;
+  position:absolute;
+}
+#spotify{
+  margin-left:250px;
+  margin-top:250px;
+  height: 60px;
+  width:60px;
+  position:absolute;
+
+}
+#facebook{
+  margin-left:430px;
+  margin-top:146px;
+   height: 60px;
+    width:60px;
+    position:absolute;
+}
+#instagram{
+margin-left:250px;
+margin-top:150px;
+height: 50px;
+width:50px;
+position:absolute;
+}
+
 body{
 
 background-image:url('background.jpg');
@@ -24,4 +88,5 @@ position:absolute;
   margin-top: 200px;
   font-size:24px;
   position:absolute;
+  color:white
 }
